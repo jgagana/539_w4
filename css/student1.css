@@ -67,5 +67,5 @@ body{
  }
 
  .gallery img:last-child {
-   grid-column: span 3;
+   grid-column: span 2;
  }
